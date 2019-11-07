@@ -64,5 +64,9 @@ Table of Contents
 <li>Executing queries</li>
 <li>Playing with CSV files</li>
 </ul>
+  <li><a href="">Python</a>  
+  <ul>
+    <li><a href="https://www.journaldev.com/15791/python-assert">Assertions</a></li>
+  </ul>
 </li>
 </ul>
