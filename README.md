@@ -68,5 +68,8 @@ Table of Contents
   <ul>
     <li><a href="https://www.journaldev.com/15791/python-assert">Assertions</a></li>
   </ul>
+  <ul>
+    <li><a href="https://realpython.com/python-logging/">Logging</a></li>
+  </ul>
 </li>
 </ul>
