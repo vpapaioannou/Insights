@@ -65,22 +65,16 @@ Table of Contents
 <li>Playing with CSV files</li>
 </ul>
   <li><a href="">Python</a>  
-  <ul>
-    <li><a href="https://www.journaldev.com/15791/python-assert">Assertions</a></li>
-  </ul>
-  <ul>
-    <li><a href="https://realpython.com/python-logging/">Logging</a></li>
-  </ul>
-</li>
-</ul>
-</ul>
-  <li><a href="">R</a>  
+    <ul>
+      <li><a href="https://www.journaldev.com/15791/python-assert">Assertions</a></li>
+      <li><a href="https://realpython.com/python-logging/">Logging</a></li>
+    </ul>
+  </li>
+ <li><a href="">R</a>  
   <ul>
     <li><a href="http://felixfan.github.io/ggplot2-remove-grid-background-margin/">ggplot2 Background</a></li>
-  </ul>
-  <ul>
     <li><a href="https://www.r-bloggers.com/t-tests/">Tests I</a></li>
     <li><a href="https://www.r-bloggers.com/add-p-values-and-significance-levels-to-ggplots/">Tests II</a></li>
   </ul>
-</li>
+ </li>
 </ul>
