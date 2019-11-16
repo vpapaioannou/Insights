@@ -79,4 +79,8 @@ Table of Contents
     <li><a href="https://www.r-bloggers.com/add-p-values-and-significance-levels-to-ggplots/">Tests II</a></li>
   </ul>
  </li>
+  <li><a href="">Markdown</a>
+    <ul>
+      <li><a href = "https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet"><CheatSheet</a></li>
+    </ul>
 </ul>
