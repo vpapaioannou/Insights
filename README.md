@@ -81,7 +81,7 @@ Table of Contents
  </li>
   <li><a href="">Markdown</a>
     <ul>
-      <li><a href = "https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet"><CheatSheet</a></li>
+      <li><a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">CheatSheet</a></li>
     </ul>
   </li>
 </ul>
