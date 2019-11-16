@@ -69,6 +69,7 @@ Table of Contents
       <li><a href="https://www.journaldev.com/15791/python-assert">Assertions</a></li>
       <li><a href="https://realpython.com/python-logging/">Logging</a></li>
       <li><a href="https://stackoverflow.com/questions/49433936/how-to-initialize-weights-in-pytorch">Pytorch Weight Initialization</a></li>
+      <li><a href="https://github.com/wkentaro/labelme">Image labeling</a></li>
     </ul>
   </li>
  <li><a href="">R</a>  
