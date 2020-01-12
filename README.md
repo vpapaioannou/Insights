@@ -70,6 +70,8 @@ Table of Contents
       <li><a href="https://realpython.com/python-logging/">Logging</a></li>
       <li><a href="https://stackoverflow.com/questions/49433936/how-to-initialize-weights-in-pytorch">Pytorch Weight Initialization</a></li>
       <li><a href="https://github.com/wkentaro/labelme">Image labeling</a></li>
+      <li><a href="https://www.machinelearninguru.com/deep_learning/data_preparation/hdf5/hdf5.html">PyTables</a></li>
+      <li><a href="https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.axes.Axes.tick_params.html">Matplolib colorbar label size</a></li>
     </ul>
   </li>
  <li><a href="">R</a>  
