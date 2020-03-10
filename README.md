@@ -4,6 +4,12 @@ These tutorials neither cover any subject in detail nor this is their purpose. T
 
 Table of Contents
 <ul>
+<li><a href="">Linux - Administration</a>
+  <ul>
+    <li><a href="https://askubuntu.com/questions/749176/no-space-left-on-device-even-after-deleting-files">No space left on device even after deleting files</a></li>
+  </ul>
+<ul>
+<ul>
 <li><a href="">TPCH</a>
 <ul>
 <li>Creating dbgen script</li>
@@ -80,6 +86,7 @@ Table of Contents
     <li><a href="https://www.r-bloggers.com/t-tests/">Tests I</a></li>
     <li><a href="https://www.r-bloggers.com/add-p-values-and-significance-levels-to-ggplots/">Tests II</a></li>
     <li><a href="https://www.data-to-viz.com/caveat/boxplot.html">Boxplot and its pitfalls</a></li>
+    <li><a href="https://stackoverflow.com/questions/60438297/r-histograms-with-shared-same-x-and-y-axes/60438728?noredirect=1#comment107179917_60438728">dynamic ggplot2 graphs (histograms) with same scale</a></li>
   </ul>
  </li>
   <li><a href="">Markdown</a>
