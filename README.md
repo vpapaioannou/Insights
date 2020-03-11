@@ -90,9 +90,15 @@ Table of Contents
     <li><a href="https://stackoverflow.com/questions/60438297/r-histograms-with-shared-same-x-and-y-axes/60438728?noredirect=1#comment107179917_60438728">dynamic ggplot2 graphs (histograms) with same scale</a></li>
   </ul>
  </li>
-  <li><a href="">Markdown</a>
+ <li><a href="">Markdown</a>
     <ul>
       <li><a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">CheatSheet</a></li>
     </ul>
-  </li>
+ </li>
+ <li><a href="">Machine Learning / Deep Learning</a>
+    <ul>
+      <li><a href="https://neptune.ai/blog/evaluation-metrics-binary-classification?utm_campaign=blog-evaluation-metrics-binary-classification&utm_content=blog&utm_medium=answer&utm_source=quora">24 Evaluation Metrics for Binary Classification (And When to Use Them)</a></li>
+      <li><a href="https://www.quora.com/What-is-an-intuitive-explanation-of-F-score?share=1">What is an intuitive explanation of F-score?</a></li>
+    </ul>
+ </li>
 </ul>
