@@ -18,14 +18,14 @@ Table of Contents
 <li>Loading data into PostgreSQL</li>
 </ul>
 </li>
-<li><a href="">PostgreSQL</a>
+<li><span>PostgreSQL</span>
 <ul>
 <li>Changing data default directory</li>
 <li>Playing with tablespaces - Handling scalability issues</li>
 <li>Playing with CSV files</li>
 </ul>
 </li>
-<li><a href="">Scale matters</a>
+<li><span>Scale matters</span>
 <ul>
 <li>Disk usage commands <code>df</code>, <code>du</code></li>
 <li>Command <code>mount</code></li>
@@ -33,11 +33,11 @@ Table of Contents
 <li>Redirecting <code>Hive</code> execution temporary files</li>
 </ul>
 </li>
-<li><a href="">Cluster matters</a>
+<li><span>Cluster matters</span>
 <ul>
 <li>Handling cluster at once with <code>pdsh</code></li>
 </ul>
-<li><a href="">GitHub matters</a>
+<li><span>GitHub matters</span>
 <ul>
 <li>Quick guide</li>
 <li>Setting username and password once</li>
@@ -45,7 +45,7 @@ Table of Contents
 <li>Commit only necessary files</li>
 <li>Revert code changes</li>
 </ul>
-<li><a href="">Coding and Debugging</a>
+<li><span>Coding and Debugging</span>
 <ul>
 <li>SSH tunneling</li>
 <li>Squid server</li>
@@ -53,25 +53,25 @@ Table of Contents
 <li>Eclipse IDE</li>
 </ul>
 </li>
-<li><a href="">Hadoop</a>
+<li><span>Hadoop</span>
 <ul>
 <li>Debugging - Local logs</li>
 </ul>
-<li><a href="">Spark</a>
+<li><span>Spark</span>
 <ul>
 <li>Spark submit</li>
 <li>Spark shell</li>
 <li>Playing with CSV files</li>
 </ul>
 </li>
-<li><a href="">Hive</a>
+<li><span>Hive</span>
 <ul>
 <li>Introduction</li>
 <li>Installation</li>
 <li>Executing queries</li>
 <li>Playing with CSV files</li>
 </ul>
-  <li><a href="">Python</a>  
+  <li><span>Python</span>
     <ul>
       <li><a href="https://www.journaldev.com/15791/python-assert">Assertions</a></li>
       <li><a href="https://realpython.com/python-logging/">Logging</a></li>
@@ -81,7 +81,7 @@ Table of Contents
       <li><a href="https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.axes.Axes.tick_params.html">Matplolib colorbar label size</a></li>
     </ul>
   </li>
- <li><a href="">R</a>  
+ <li><span>R</span>
   <ul>
     <li><a href="http://felixfan.github.io/ggplot2-remove-grid-background-margin/">ggplot2 Background</a></li>
     <li><a href="https://www.r-bloggers.com/t-tests/">Tests I</a></li>
@@ -90,12 +90,12 @@ Table of Contents
     <li><a href="https://stackoverflow.com/questions/60438297/r-histograms-with-shared-same-x-and-y-axes/60438728?noredirect=1#comment107179917_60438728">dynamic ggplot2 graphs (histograms) with same scale</a></li>
   </ul>
  </li>
- <li><a href="">Markdown</a>
+ <li><span>Markdown</span>
     <ul>
       <li><a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">CheatSheet</a></li>
     </ul>
  </li>
- <li><a href="">Machine Learning / Deep Learning</a>
+ <li><span>Machine Learning / Deep Learning</span>
     <ul>
       <li><a href="https://neptune.ai/blog/evaluation-metrics-binary-classification?utm_campaign=blog-evaluation-metrics-binary-classification&utm_content=blog&utm_medium=answer&utm_source=quora">24 Evaluation Metrics for Binary Classification (And When to Use Them)</a></li>
       <li><a href="https://www.quora.com/What-is-an-intuitive-explanation-of-F-score?share=1">What is an intuitive explanation of F-score?</a></li>
