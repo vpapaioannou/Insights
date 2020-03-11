@@ -79,6 +79,7 @@ Table of Contents
       <li><a href="https://github.com/wkentaro/labelme">Image labeling</a></li>
       <li><a href="https://www.machinelearninguru.com/deep_learning/data_preparation/hdf5/hdf5.html">PyTables</a></li>
       <li><a href="https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.axes.Axes.tick_params.html">Matplolib colorbar label size</a></li>
+      <li><a href="https://stackoverflow.com/questions/26545051/is-there-a-way-to-delete-created-variables-functions-etc-from-the-memory-of-th">Delete created variables, functions, etc from the memory of the interpreter to avoid running out of memory while running code.</a></li>
     </ul>
   </li>
  <li><span>R</span>
