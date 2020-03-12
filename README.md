@@ -64,7 +64,7 @@ Table of Contents
 <li>Playing with CSV files</li>
 </ul>
 </li>
-<li><span>Hive</span>
+<li><span><b>Hive</b></span>
 <ul>
 <li>Introduction</li>
 <li>Installation</li>
