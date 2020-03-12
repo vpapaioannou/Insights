@@ -4,7 +4,7 @@ These tutorials neither cover any subject in detail nor this is their purpose. T
 
 Table of Contents
 <ul>
-  <li><span>Linux - Administration</span>
+  <li><span><b>Linux - Administration</b></span>
     <ul>
       <li><a href="https://askubuntu.com/questions/749176/no-space-left-on-device-even-after-deleting-files">No space left on device even after deleting files</a></li>
     </ul>
