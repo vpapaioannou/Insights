@@ -102,4 +102,16 @@ Table of Contents
       <li><a href="https://www.quora.com/What-is-an-intuitive-explanation-of-F-score?share=1">What is an intuitive explanation of F-score?</a></li>
     </ul>
  </li>
+ <li><span><b>SQL Server for Linux</b></span>
+    <ul>
+      <li><a href="https://blog.csdn.net/u011641865/article/details/72317824">dpkg: error processing package msodbcsql17 (--configure):
+ package msodbcsql17 is not ready for configuration
+ cannot configure (current status 'half-installed')</a>
+      </li>
+      <li><a href="https://dba.stackexchange.com/questions/174175/how-do-i-totally-remove-sql-server-2017-on-ubuntu">How do I totally remove SQL Server 2017 on Ubuntu?</a>
+      </li>
+      <li><a href="https://dba.stackexchange.com/questions/174175/how-do-i-totally-remove-sql-server-2017-on-ubuntu">How do I totally remove SQL Server 2017 on Ubuntu?</a>
+      </li>
+    </ul>
+ </li>
 </ul>
