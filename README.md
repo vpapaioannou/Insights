@@ -90,8 +90,8 @@ Table of Contents
     <li><a href="https://www.data-to-viz.com/caveat/boxplot.html">Boxplot and its pitfalls</a></li>
     <li><a href="https://stackoverflow.com/questions/60438297/r-histograms-with-shared-same-x-and-y-axes/60438728?noredirect=1#comment107179917_60438728">dynamic ggplot2 graphs (histograms) with same scale</a></li>
     <li>Variable name in functions </br>
-        <li><a href="https://linogaliana.netlify.app/post/datatable/datatable-nse/">Using rlang::sym</a></li>
-        <li><a href="https://www.tidyverse.org/blog/2020/02/glue-strings-and-tidy-eval/">Using {{}}</a>
+        &#9;<li><a href="https://linogaliana.netlify.app/post/datatable/datatable-nse/">Using rlang::sym</a></li>
+        &#9;<li><a href="https://www.tidyverse.org/blog/2020/02/glue-strings-and-tidy-eval/">Using {{}}</a>
     </li>
 </li>
   </ul>
