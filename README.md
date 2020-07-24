@@ -6,7 +6,20 @@ Table of Contents
 <ul>
   <li><span><b>Linux - Administration</b></span>
     <ul>
-      <li><a href="https://askubuntu.com/questions/749176/no-space-left-on-device-even-after-deleting-files">No space left on device even after deleting files</a></li>
+      <li>
+        <a href="https://askubuntu.com/questions/749176/no-space-left-on-device-even-after-deleting-files">No space left on device even after deleting files</a>
+      </li>
+      <li>
+        <span><i>Swap space : when RAM memory is not enough</i></span>
+        <ul>
+          <li>
+            <a href="https://help.ubuntu.com/community/SwapFaq#What_is_swappiness_and_how_do_I_change_it.3F">Ubuntu documentation</a>
+          </li>
+          <li>
+            <a href="https://help.ubuntu.com/community/SwapFaq#What_is_swappiness_and_how_do_I_change_it.3F">Empty swap space to restore performance</a>
+          </li>
+        </ul>
+      </li>
     </ul>
   </li>
 </ul>
