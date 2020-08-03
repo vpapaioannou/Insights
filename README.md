@@ -119,6 +119,14 @@ Table of Contents
       <li><a href="https://www.quora.com/What-is-an-intuitive-explanation-of-F-score?share=1">What is an intuitive explanation of F-score?</a></li>
     </ul>
  </li>
+ <li><span><b>Spatial patterns analysis</b></span>
+  <ul>
+    <li><a href="https://www.seas.upenn.edu/~ese502/">NOTEBOOK ON SPATIAL DATA ANALYSIS</a>
+    </li>
+    <li><a href="https://blog.valdosta.edu/andersonlab/2018/05/03/point-pattern-analysis-visualizing-and-testing-for-inhomogeneity-by-dr-anderson/">Testing for inhomogeneity</a>
+    </li>
+  </ul>
+ </li>
  <li><span><b>SQL Server for Linux</b></span>
     <ul>
       <li><a href="https://blog.csdn.net/u011641865/article/details/72317824">dpkg: error processing package msodbcsql17 (--configure):
