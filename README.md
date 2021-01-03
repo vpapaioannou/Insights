@@ -137,7 +137,7 @@ Table of Contents
       </li>
     </ul>
  </li>
- <li><span>Visual Studio</span>
+ <li><span><b>Visual Studio</b></span>
   <ul>
     <li><a href="https://www.roelpeters.be/change-venv-for-python-in-vs-code/">Set (Python) virtual environment.</a></li>
  </li>
