@@ -135,8 +135,10 @@ Table of Contents
       </li>
       <li><a href="https://dba.stackexchange.com/questions/174175/how-do-i-totally-remove-sql-server-2017-on-ubuntu">How do I totally remove SQL Server 2017 on Ubuntu?</a>
       </li>
-      <li><a href="https://dba.stackexchange.com/questions/174175/how-do-i-totally-remove-sql-server-2017-on-ubuntu">How do I totally remove SQL Server 2017 on Ubuntu?</a>
-      </li>
     </ul>
+ </li>
+ <li><span>Visual Studio</span>
+  <ul>
+    <li><a href="https://www.roelpeters.be/change-venv-for-python-in-vs-code/">Set (Python) virtual environment.</a></li>
  </li>
 </ul>
