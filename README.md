@@ -141,5 +141,6 @@ Table of Contents
   <ul>
     <li><a href="https://www.roelpeters.be/change-venv-for-python-in-vs-code/">Set (Python) virtual environment.</a></li>
     <li><a href="https://code.visualstudio.com/docs/getstarted/tips-and-tricks#vscode">Tips and Tricks</a></li>
+    <li><a href="https://stackoverflow.com/questions/58255016/class-has-no-objects-member/58255140#58255140">class has no 'objects' member</a></li>
  </li>
 </ul>
