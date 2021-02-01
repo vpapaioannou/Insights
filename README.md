@@ -93,6 +93,12 @@ Table of Contents
       <li><a href="https://www.machinelearninguru.com/deep_learning/data_preparation/hdf5/hdf5.html">PyTables</a></li>
       <li><a href="https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.axes.Axes.tick_params.html">Matplolib colorbar label size</a></li>
       <li><a href="https://stackoverflow.com/questions/26545051/is-there-a-way-to-delete-created-variables-functions-etc-from-the-memory-of-th">Delete created variables, functions, etc from the memory of the interpreter to avoid running out of memory while running code.</a></li>
+      <li>3D-Models w/ VTK and more
+        <ul>
+          <li><a href="https://pyscience.wordpress.com/">PyScience - VTK</a></li>
+          <li><a href="https://hengloose.medium.com/a-comprehensive-starter-guide-to-visualizing-and-analyzing-dicom-images-in-python-7a8430fcb7ed">A Comprehensive Guide To Visualizing and Analyzing DICOM Images in Python</a></li>
+        </ul>
+      </li>
     </ul>
   </li>
  <li><span><b>R</b></span>
