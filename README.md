@@ -97,6 +97,7 @@ Table of Contents
         <ul>
           <li><a href="https://pyscience.wordpress.com/">PyScience - VTK</a></li>
           <li><a href="https://hengloose.medium.com/a-comprehensive-starter-guide-to-visualizing-and-analyzing-dicom-images-in-python-7a8430fcb7ed">A Comprehensive Guide To Visualizing and Analyzing DICOM Images in Python</a></li>
+          <li><a href="https://www.datacamp.com/community/tutorials/matplotlib-3d-volumetric-data">Viewing 3D Volumetric Data With Matplotlib</a></li>
         </ul>
       </li>
     </ul>
