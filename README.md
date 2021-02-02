@@ -100,6 +100,11 @@ Table of Contents
           <li><a href="https://www.datacamp.com/community/tutorials/matplotlib-3d-volumetric-data">Viewing 3D Volumetric Data With Matplotlib</a></li>
         </ul>
       </li>
+      <li>OCR
+        <ul>
+          <li><a href="https://github.com/madmaze/pytesseract">PyTesseract</a>
+        </ul>
+      </li>
     </ul>
   </li>
  <li><span><b>R</b></span>
