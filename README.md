@@ -161,9 +161,11 @@ Table of Contents
     <li><a href="https://dicom.innolitics.com/ciods/ct-image">DICOM Standard Browser</a></li>
     <li><a href="https://dicomiseasy.blogspot.com/">DICOM is easy</a></li>
     <li><a href="https://github.com/rordenlab/dcm2niix">dcm2niix</a></li>
-    <li><a href="https://github.com/rordenlab/dcm2niix/issues/232">Gantry tilt error</a></li>
+    <li><a href="https://github.com/rordenlab/dcm2niix/issues/232">dcm2niix: Gantry tilt error</a></li>
+    <li><a href="http://www.itksnap.org/pmwiki/pmwiki.php">ITK-snap: viewing nifti files</a></li>
+    <li><a href="https://www.paraview.org/">Paraview: viewing stl files</a></li>
     <li><a href="https://aws.amazon.com/blogs/machine-learning/de-identify-medical-images-with-the-help-of-amazon-comprehend-medical-and-amazon-rekognition/">AWS De-identification</a></li>
-    <li><a href="https://cloud.google.com/healthcare/docs/how-tos/dicom-deidentify">Google De-identifier</a></li>
+    <li><a href="https://cloud.google.com/healthcare/docs/how-tos/dicom-deidentify">Google De-identification</a></li>
   </ul>
 </li>
 </ul>
