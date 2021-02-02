@@ -162,6 +162,8 @@ Table of Contents
     <li><a href="https://dicomiseasy.blogspot.com/">DICOM is easy</a></li>
     <li><a href="https://github.com/rordenlab/dcm2niix">dcm2niix</a></li>
     <li><a href="https://github.com/rordenlab/dcm2niix/issues/232">Gantry tilt error</a></li>
+    <li><a href="https://aws.amazon.com/blogs/machine-learning/de-identify-medical-images-with-the-help-of-amazon-comprehend-medical-and-amazon-rekognition/">AWS De-identification</a></li>
+    <li><a href="https://cloud.google.com/healthcare/docs/how-tos/dicom-deidentify">Google De-identifier</a></li>
   </ul>
 </li>
 </ul>
