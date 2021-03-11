@@ -88,6 +88,7 @@ Table of Contents
     <ul>
       <li><a href="https://www.journaldev.com/15791/python-assert">Assertions (w/ variables)</a></li>
       <li><a href="https://realpython.com/python-logging/">Logging</a></li>
+      <li><a href="https://stackoverflow.com/questions/19875789/django-gives-bad-request-400-when-debug-false">Logging in Django (answer by Yuseferi)</a></li>
       <li><a href="https://stackoverflow.com/questions/49433936/how-to-initialize-weights-in-pytorch">Pytorch Weight Initialization</a></li>
       <li><a href="https://github.com/wkentaro/labelme">Image labeling</a></li>
       <li><a href="https://www.machinelearninguru.com/deep_learning/data_preparation/hdf5/hdf5.html">PyTables</a></li>
