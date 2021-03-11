@@ -176,7 +176,7 @@ Table of Contents
 </li>
 <li><span><b>Angular</b></span>
     <ul>
-      <li><a href="https://stackoverflow.com/questions/54447095/usage-of-formgroupdirective-for-reset-form-angular-reactive-form/56518781#56518781">Reset form properly (answer by Juan)</a></li>
+      <li><a href="https://stackoverflow.com/questions/48216330/angular-5-formgroup-reset-doesnt-reset-validators">Reset form properly (answer by Abhinav)</a></li>
   </ul>
 
 </ul>
