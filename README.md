@@ -177,6 +177,7 @@ Table of Contents
 <li><span><b>Angular</b></span>
     <ul>
       <li><a href="https://stackoverflow.com/questions/48216330/angular-5-formgroup-reset-doesnt-reset-validators">Reset form properly (answer by Abhinav)</a></li>
+      <li><a href="https://material.io/resources/icons/?style=baseline">Angular Material Icons</li>
   </ul>
 
 </ul>
