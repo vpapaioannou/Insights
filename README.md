@@ -174,4 +174,9 @@ Table of Contents
     <li><a href="https://cloud.google.com/healthcare/docs/how-tos/dicom-deidentify">Google De-identification</a></li>
   </ul>
 </li>
+<li><span><b>Angular</b></span>
+    <ul>
+      <li><a href="https://stackoverflow.com/questions/54447095/usage-of-formgroupdirective-for-reset-form-angular-reactive-form/56518781#56518781">Reset form properly (answer by Juan)</a></li>
+  </ul>
+
 </ul>
