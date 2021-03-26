@@ -50,13 +50,14 @@ Table of Contents
 <ul>
 <li>Handling cluster at once with <code>pdsh</code></li>
 </ul>
-<li><span><b>GitHub matters</b></span>
+<li><span><b>Git (Hub)</b></span>
 <ul>
 <li>Quick guide</li>
 <li>Setting username and password once</li>
 <li>Merge commits</li>
-<li>Commit only necessary files</li>
+<li><a href="https://stackoverflow.com/questions/4873976/how-to-commit-only-modified-and-not-new-or-deleted-files">Commit only modified files</a></li>
 <li>Revert code changes</li>
+  <li><a href="https://www.fizerkhan.com/blog/posts/clean-up-your-local-branches-after-merge-and-delete-in-github#:~:text=The%20command%20git%20remote%20prune,an%20option%20%2D%2Ddry%2Drun%20">Clean up after merge</a></li>
 </ul>
 <li><span><b>Coding and Debugging</b></span>
 <ul>
