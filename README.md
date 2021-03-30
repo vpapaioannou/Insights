@@ -186,7 +186,7 @@ Table of Contents
     <ul>
       <li><a href="http://www.openwebit.com/c/how-to-debug-docker-images/">Debug docker image I.</a></li>
       <li><a href="https://medium.com/@betz.mark/ten-tips-for-debugging-docker-containers-cde4da841a1d">Debug docker image II.</li>
-      <li><a href="https://stackoverflow.com/questions/51026315/how-to-solve-unicodedecodeerror-in-python-3-6/51027262#51027262">How to solve UnicodeDecodeError in Python 3.6? (answer by Daniel)</li>
+      <li><a href="https://stackoverflow.com/questions/51026315/how-to-solve-unicodedecodeerror-in-python-3-6/51027262#51027262">How to solve UnicodeDecodeError in Python 3.6? (answer by Daniel)</a></li>
   </ul>
 </li>
 <li><span><b>Django</b></span>
