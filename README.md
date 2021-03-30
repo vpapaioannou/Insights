@@ -189,5 +189,10 @@ Table of Contents
       <li><a href="https://stackoverflow.com/questions/51026315/how-to-solve-unicodedecodeerror-in-python-3-6/51027262#51027262">How to solve UnicodeDecodeError in Python 3.6? (answer by Daniel)</li>
   </ul>
 </li>
+<li><span><b>Djangor</b></span>
+    <ul>
+      <li><a href="https://stackoverflow.com/questions/43765732/how-to-trace-this-attributeerror-nonetype-object-has-no-attribute-is-relati">AttributeError: 'NoneType' object has no attribute 'is_relation' during makemigrations (answer by Felipe Ferri)</a></li>
+  </ul>
+</li>
 
 </ul>
