@@ -58,6 +58,7 @@ Table of Contents
 <li><a href="https://stackoverflow.com/questions/4873976/how-to-commit-only-modified-and-not-new-or-deleted-files">Commit only modified files</a></li>
 <li>Revert code changes</li>
   <li><a href="https://www.fizerkhan.com/blog/posts/clean-up-your-local-branches-after-merge-and-delete-in-github#:~:text=The%20command%20git%20remote%20prune,an%20option%20%2D%2Ddry%2Drun%20">Clean up after merge</a></li>
+  <li><a href="https://stackoverflow.com/questions/28195778/git-stash-apply-with-interactive-mode">Interactive resolution of conflicts when `pull` w/ `stash`</li>
 </ul>
 <li><span><b>Coding and Debugging</b></span>
 <ul>
