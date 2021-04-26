@@ -20,6 +20,8 @@ Table of Contents
           </li>
         </ul>
       </li>
+      <li><a href="https://unix.stackexchange.com/questions/80822/ubuntu-unity-attach-script-to-launcher">Create desktop application launch button for bash script</a>
+      </li>
     </ul>
   </li>
 </ul>
