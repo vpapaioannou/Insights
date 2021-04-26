@@ -61,6 +61,8 @@ Table of Contents
 <li>Revert code changes</li>
   <li><a href="https://www.fizerkhan.com/blog/posts/clean-up-your-local-branches-after-merge-and-delete-in-github#:~:text=The%20command%20git%20remote%20prune,an%20option%20%2D%2Ddry%2Drun%20">Clean up after merge</a></li>
   <li><a href="https://stackoverflow.com/questions/28195778/git-stash-apply-with-interactive-mode">Interactive resolution of conflicts when `pull` w/ `stash`</a></li>
+  <li><a href="https://stackoverflow.com/questions/7200614/how-to-merge-remote-master-to-local-branch">Merge remote master to local branch (answer by Joey Adams).</a>
+  </li>
 </ul>
 <li><span><b>Coding and Debugging</b></span>
 <ul>
