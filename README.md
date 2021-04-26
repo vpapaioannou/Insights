@@ -63,6 +63,8 @@ Table of Contents
   <li><a href="https://stackoverflow.com/questions/28195778/git-stash-apply-with-interactive-mode">Interactive resolution of conflicts when `pull` w/ `stash`</a></li>
   <li><a href="https://stackoverflow.com/questions/7200614/how-to-merge-remote-master-to-local-branch">Merge remote master to local branch (answer by Joey Adams).</a>
   </li>
+  <li><a href="https://itsyndicate.org/blog/how-to-use-git-force-pull-properly/">Resolve conflicts w/ forced git pull</a>
+  </li>
 </ul>
 <li><span><b>Coding and Debugging</b></span>
 <ul>
