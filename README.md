@@ -182,6 +182,11 @@ Table of Contents
     <li><a href="https://cloud.google.com/healthcare/docs/how-tos/dicom-deidentify">Google De-identification</a></li>
   </ul>
 </li>
+<li><span><b>NIFTI</b></span>
+  <ul>
+    <l><a href="https://github.com/SimpleITK/SimpleITK/issues/346">SimpleITK does not save metadata.</a></li>
+  </ul>
+</li>
 <li><span><b>Angular</b></span>
     <ul>
       <li><a href="https://stackoverflow.com/questions/48216330/angular-5-formgroup-reset-doesnt-reset-validators">Reset form properly (answer by Abhinav)</a></li>
