@@ -199,7 +199,7 @@ Table of Contents
       <li><a href="http://www.openwebit.com/c/how-to-debug-docker-images/">Debug docker image I.</a></li>
       <li><a href="https://medium.com/@betz.mark/ten-tips-for-debugging-docker-containers-cde4da841a1d">Debug docker image II.</li>
       <li><a href="https://stackoverflow.com/questions/51026315/how-to-solve-unicodedecodeerror-in-python-3-6/51027262#51027262">How to solve UnicodeDecodeError in Python 3.6? (answer by Daniel)</a></li>
-      <li><a href="https://docs.docker.com/engine/install/linux-postinstall/">Run Docker as non-root user I</a>
+      <li><a href="https://docs.docker.com/engine/install/linux-postinstall/#manage-docker-as-a-non-root-user">Run Docker as non-root user I (non secure)</a>
       </li>
       <li><a href="https://docs.docker.com/engine/security/rootless/">Run Docker as non-root user II</a>
       </li>
@@ -209,7 +209,6 @@ Table of Contents
           <li><a href="https://gist.github.com/lamhoangtung/d19bb72a99639a762b6d935fbd080c7c">Download NVIDIA .deb files</a></li>
           <li><a href="https://docs.docker.com/engine/install/ubuntu/#uninstall-old-versions">Uninstall any old version. Use purge instead of remove.</a></li>
           <li><a href="https://github.com/moby/moby/issues/41792#issuecomment-750863884">Stop Docker socket before installing</a></li>
-          <li><a href="https://docs.docker.com/engine/install/linux-postinstall/#manage-docker-as-a-non-root-user">Rootless Docker use</a></li>
         </ul>
       </li>
   </ul>
