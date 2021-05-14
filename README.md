@@ -203,6 +203,15 @@ Table of Contents
       </li>
       <li><a href="https://docs.docker.com/engine/security/rootless/">Run Docker as non-root user II</a>
       </li>
+      <li>Linux Offline Docker installation
+        <ul>
+          <li><a href="https://docs.docker.com/engine/install/ubuntu/#install-from-a-package">Download .deb files</a></li>
+          <li><a href="https://gist.github.com/lamhoangtung/d19bb72a99639a762b6d935fbd080c7c">Download NVIDIA .deb files</a></li>
+          <li><a href="https://docs.docker.com/engine/install/ubuntu/#uninstall-old-versions">Uninstall any old version. Use purge instead of remove.</a></li>
+          <li><a href="https://github.com/moby/moby/issues/41792#issuecomment-750863884">Stop Docker socket before installing</a></li>
+          <li><a href="https://docs.docker.com/engine/install/linux-postinstall/#manage-docker-as-a-non-root-user">Rootless Docker use</a></li>
+        </ul>
+      </li>
   </ul>
 </li>
 <li><span><b>Django</b></span>
