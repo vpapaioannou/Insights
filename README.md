@@ -211,6 +211,7 @@ Table of Contents
           <li><a href="https://github.com/moby/moby/issues/41792#issuecomment-750863884">Stop Docker socket before installing</a></li>
         </ul>
       </li>
+      <li><a href="https://serverfault.com/questions/701248/downloading-docker-image-for-transfer-to-non-internet-connected-machine/718470#718470">Save and load Docker images as files (answer by Booba Skaya). Useful for offline Docker image import/export</a></li>
   </ul>
 </li>
 <li><span><b>Django</b></span>
