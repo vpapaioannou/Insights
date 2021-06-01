@@ -66,6 +66,7 @@ Table of Contents
   <li><a href="https://itsyndicate.org/blog/how-to-use-git-force-pull-properly/">Resolve conflicts w/ forced git pull</a>
   </li>
   <li><a href="https://askubuntu.com/questions/730754/how-do-i-show-the-git-branch-with-colours-in-bash-prompt">Show Git branch in terminal (answer by nardele salomon)</a></li>
+  <li><a href="https://theshravan.net/blog/update-the-local-list-of-remote-branches-in-the-git-repository/">Update local branches list</a></li>
 </ul>
 <li><span><b>Coding and Debugging</b></span>
 <ul>
