@@ -220,7 +220,7 @@ Table of Contents
 <li><span><b>Django</b></span>
     <ul>
       <li><a href="https://stackoverflow.com/questions/43765732/how-to-trace-this-attributeerror-nonetype-object-has-no-attribute-is-relati">AttributeError: 'NoneType' object has no attribute 'is_relation' during makemigrations (answer by Felipe Ferri)</a></li>
-      <li><a href="https://www.fullstackpython.com/wsgi-servers.html">What is WSGI: Web Server Gateway Interface?</a></li><
+      <li><a href="https://www.fullstackpython.com/wsgi-servers.html">What is WSGI: Web Server Gateway Interface?</a></li>
       <li>Logging
         <ul>
           <li><a href="https://mattsegal.dev/file-logging-django.html">Save Django logs in production</a></li>
