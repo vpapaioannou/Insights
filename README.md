@@ -229,6 +229,7 @@ Table of Contents
           <li><a href=https://mattsegal.dev/django-logging-papertrail.html">Log aggregation w/ Papertrail</a></li>
         </ul>
       </li>
+      <li><a href="https://medium.com/django-rest-framework/django-rest-framework-viewset-when-you-don-t-have-a-model-335a0490ba6f">ViewSets w/o model.</a></li>
   </ul>
 </li>
 
