@@ -227,6 +227,7 @@ Table of Contents
           <li><a href="https://mattsegal.dev/file-logging-django.html">Save Django logs in production</a></li>
           <li><a href="https://mattsegal.dev/django-gunicorn-nginx-logging.html">Manage logs w/ Nginx, Gunicorn and Django</a></li>
           <li><a href=https://mattsegal.dev/django-logging-papertrail.html">Log aggregation w/ Papertrail</a></li>
+          <li><a href="https://scripting4ever.wordpress.com/2020/07/27/how-to-log-the-request-and-response-via-django-middleware/">Log requests and responses when run in production</a></li>
         </ul>
       </li>
       <li><a href="https://medium.com/django-rest-framework/django-rest-framework-viewset-when-you-don-t-have-a-model-335a0490ba6f">ViewSets w/o model.</a></li>
