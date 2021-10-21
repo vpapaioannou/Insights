@@ -22,6 +22,7 @@ Table of Contents
       </li>
       <li><a href="https://unix.stackexchange.com/questions/80822/ubuntu-unity-attach-script-to-launcher">Create desktop application launch button for bash script</a>
       </li>
+      <li><a href="https://askubuntu.com/questions/710609/how-to-run-multiple-commands-in-parallel-and-see-output-from-both">Run multiple commands in parallel and see output from both?</a></li>
     </ul>
   </li>
 </ul>
