@@ -232,6 +232,7 @@ Table of Contents
         </ul>
       </li>
       <li><a href="https://medium.com/django-rest-framework/django-rest-framework-viewset-when-you-don-t-have-a-model-335a0490ba6f">ViewSets w/o model.</a></li>
+      <li><a href="https://realpython.com/customize-django-admin-python/">Customize Django Admin Page</a></li>
   </ul>
 </li>
 
