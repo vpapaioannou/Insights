@@ -1,6 +1,6 @@
 # Insights
-Tutorials about various subjects while in the realm of Big Data.
-These tutorials neither cover any subject in detail nor this is their purpose. The intention is to give a quick and accurate guidance or answer.
+Tutorials about various subjects I encountered as Computer Engineer.
+These tutorials neither cover any subject in detail nor this is their purpose. The intention is to give a quick and to the point guidance or answer.
 
 Table of Contents
 <ul>
