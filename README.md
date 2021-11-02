@@ -173,23 +173,42 @@ Table of Contents
     <li><a href="https://www.startradiology.com/the-basics/x-rayct-technique/">X-ray/CT technique</a></li>
   </ul>
 </li>
+
 <li><span><b>DICOM</b></span>
   <ul>
     <li><a href="https://dicom.innolitics.com/ciods/ct-image">DICOM Standard Browser</a></li>
-    <li><a href="https://dicomiseasy.blogspot.com/">DICOM is easy</a></li>
+    <li><a href="https://dicomiseasy.blogspot.com/">DICOM is easy βλογ</a>
+      <ul>
+        <li><a href="https://dicomiseasy.blogspot.com/2013/06/getting-oriented-using-image-plane.html">Getting oriented using image plane module</a></li>
+      </ul>
+    </li>
     <li><a href="https://github.com/rordenlab/dcm2niix">dcm2niix</a></li>
     <li><a href="https://github.com/rordenlab/dcm2niix/issues/232">dcm2niix: Gantry tilt error</a></li>
-    <li><a href="http://www.itksnap.org/pmwiki/pmwiki.php">ITK-snap: viewing nifti files</a></li>
     <li><a href="https://www.paraview.org/">Paraview: viewing stl files</a></li>
+    <li><a href="https://www.brainvoyager.com/bv/doc/UsersGuide/CoordsAndTransforms/CoordinateSystems.html">Coordinate systems explained I</a></li>
+    <li><a href="https://www.slicer.org/wiki/Coordinate_systems">Coordinate systems explained II</a></li>
     <li><a href="https://aws.amazon.com/blogs/machine-learning/de-identify-medical-images-with-the-help-of-amazon-comprehend-medical-and-amazon-rekognition/">AWS De-identification</a></li>
     <li><a href="https://cloud.google.com/healthcare/docs/how-tos/dicom-deidentify">Google De-identification</a></li>
   </ul>
 </li>
-<li><span><b>NIFTI</b></span>
+
+<li><span><b>SimpleITK</b></span>
   <ul>
+    <li><a href="https://simpleitk.readthedocs.io/en/next/Examples/DicomSeriesFromArray/Documentation.html">DICOM series from array</a></li>
     <l><a href="https://github.com/SimpleITK/SimpleITK/issues/346">SimpleITK does not save metadata.</a></li>
   </ul>
+ </li>
+
+<li><span><b>NIFTI</b></span>
+  <ul>
+    <li><a href="https://brainder.org/2012/09/23/the-nifti-file-format/">NIFTI-1 explained</a></li>
+    <li><a href="https://brainder.org/2015/04/03/the-nifti-2-file-format/">NIFTI-2 explained</a></li>
+    <li><a href="https://nifti.nimh.nih.gov/nifti-1/documentation/nifti1diagrams_v2.pdf">NIFTI-1 data format: page 2</a></li>
+    <li><a href="http://www.itksnap.org/pmwiki/pmwiki.php">ITK-snap: viewing nifti files</a></li>
+    <li><a href="http://www.itksnap.org/pmwiki/pmwiki.php%3Fn%3DDocumentation.TutorialSectionNewVersionTwo">ITK-snap beginners short tutorial</a></li>
+  </ul>
 </li>
+
 <li><span><b>Angular</b></span>
     <ul>
       <li><a href="https://stackoverflow.com/questions/48216330/angular-5-formgroup-reset-doesnt-reset-validators">Reset form properly (answer by Abhinav)</a></li>
@@ -197,6 +216,7 @@ Table of Contents
       <li><a href="https://blog.angular-university.io/tag/angular-core/">Angular Core Blog</a></li>
   </ul>
 </li>
+
 <li><span><b>Docker</b></span>
     <ul>
       <li><a href="https://download.docker.com/">All platforms Docker standalone .deb files. Useful for offline installation.</a></li>
@@ -218,6 +238,7 @@ Table of Contents
       <li><a href="https://serverfault.com/questions/701248/downloading-docker-image-for-transfer-to-non-internet-connected-machine/718470#718470">Save and load Docker images as files (answer by Booba Skaya). Useful for offline Docker image import/export</a></li>
   </ul>
 </li>
+
 <li><span><b>Django</b></span>
     <ul>
       <li><a href="https://stackoverflow.com/questions/43765732/how-to-trace-this-attributeerror-nonetype-object-has-no-attribute-is-relati">AttributeError: 'NoneType' object has no attribute 'is_relation' during makemigrations (answer by Felipe Ferri)</a></li>
