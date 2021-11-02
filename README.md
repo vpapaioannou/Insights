@@ -177,7 +177,7 @@ Table of Contents
 <li><span><b>DICOM</b></span>
   <ul>
     <li><a href="https://dicom.innolitics.com/ciods/ct-image">DICOM Standard Browser</a></li>
-    <li><a href="https://dicomiseasy.blogspot.com/">DICOM is easy βλογ</a>
+    <li><a href="https://dicomiseasy.blogspot.com/">DICOM is easy blog</a>
       <ul>
         <li><a href="https://dicomiseasy.blogspot.com/2013/06/getting-oriented-using-image-plane.html">Getting oriented using image plane module</a></li>
       </ul>
