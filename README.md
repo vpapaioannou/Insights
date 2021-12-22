@@ -258,7 +258,11 @@ Table of Contents
         <ul>
           <li><a href="https://stackoverflow.com/questions/62525295/how-to-use-python-to-schedule-tasks-in-a-django-application">How to use python to schedule tasks in a Django application</a></li>
           <li><a href="https://apscheduler.readthedocs.io/en/stable/index.html">Advanced Python Scheduler</a></li>
-          <li><a href="https://github.com/jcass77/django-apscheduler">django-apscheduler</a></li>  
+          <li><a href="https://github.com/jcass77/django-apscheduler">django-apscheduler</a></li>
+          <li><a href="https://github.com/CodeEnvironment/django-rest-framework-code/tree/master/weather">Example 1</a></li>
+          <li><a href="https://github.com/bobby-didcoding/did_django_schedule_jobs">Example 2</a></li>
+          <li><a href="https://stackoverflow.com/questions/37429726/overriding-appconfig-ready">Troubleshooting 1</a></li>
+          <li><a href="https://stackoverflow.com/questions/59225246/how-to-use-django-appconfig-ready?noredirect=1&lq=1">Troubleshooting 2</a></li>
         </ul>
       </li>
   </ul>
