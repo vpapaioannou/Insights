@@ -258,7 +258,7 @@ Table of Contents
         <ul>
           <li><a href="https://stackoverflow.com/questions/62525295/how-to-use-python-to-schedule-tasks-in-a-django-application">How to use python to schedule tasks in a Django application</a></li>
           <li><a href="https://apscheduler.readthedocs.io/en/stable/index.html">Advanced Python Scheduler</a></li>
-          <li><a href="https://github.com/jcass77/django-apscheduler"></a>django-apscheduler</li>  
+          <li><a href="https://github.com/jcass77/django-apscheduler">django-apscheduler</a></li>  
         </ul>
       </li>
   </ul>
