@@ -254,6 +254,13 @@ Table of Contents
       </li>
       <li><a href="https://medium.com/django-rest-framework/django-rest-framework-viewset-when-you-don-t-have-a-model-335a0490ba6f">ViewSets w/o model.</a></li>
       <li><a href="https://realpython.com/customize-django-admin-python/">Customize Django Admin Page</a></li>
+      <li>Scheduling
+        <ul>
+          <li><a href="https://stackoverflow.com/questions/62525295/how-to-use-python-to-schedule-tasks-in-a-django-application">How to use python to schedule tasks in a Django application</a></li>
+          <li><a href="https://apscheduler.readthedocs.io/en/stable/index.html">Advanced Python Scheduler</a></li>
+          <li><a href="https://github.com/jcass77/django-apscheduler"></a>django-apscheduler</li>  
+        </ul>
+      </li>
   </ul>
 </li>
 <li><span><b>VirtualBox</b><span>
