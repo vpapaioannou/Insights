@@ -236,6 +236,14 @@ Table of Contents
         </ul>
       </li>
       <li><a href="https://serverfault.com/questions/701248/downloading-docker-image-for-transfer-to-non-internet-connected-machine/718470#718470">Save and load Docker images as files (answer by Booba Skaya). Useful for offline Docker image import/export</a></li>
+      <li>Performance
+        <ul>
+          <li><a href="https://sysdig.com/blog/container-isolation-gone-wrong/">Container isolation gone wrong</a></li>
+          <li><a href="https://sysdig.com/blog/monitoring-greedy-containers-part-1/">Monitoring greedy containers (Part 1)</a></li>
+          <li><a href="https://medium.com/hackernoon/another-reason-why-your-docker-containers-may-be-slow-d37207dec27f">Another reason why your Docker containers may be slow</a></li>
+          <li><a href="https://medium.com/homullus/beating-some-performance-into-docker-for-mac-f5d1e732032c">Beating some performance into Docker for Mac</a></li>
+        </ul>
+      </li>
   </ul>
 </li>
 
