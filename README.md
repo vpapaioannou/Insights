@@ -216,11 +216,14 @@ Table of Contents
     <li>Tesseract
       <ul>
         <li><a href="https://medium.com/geekculture/tesseract-ocr-understanding-the-contents-of-documents-beyond-their-text-a98704b7c655">Tesseract OCR: Understanding the Contents of Documents, Beyond Their Text</a></li>
-        <li><a href="https://nanonets.com/blog/ocr-with-tesseract/"></a>How to OCR with Tesseract, OpenCV and Python</li>
+        <li><a href="https://nanonets.com/blog/ocr-with-tesseract/">How to OCR with Tesseract, OpenCV and Python</a></li>
+        <li><a href="https://fazlurnu.com/2020/06/23/text-extraction-from-a-table-image-using-pytesseract-and-opencv/">Text Extraction from a Table Image, using PyTesseract and OpenCV</a></li>
         <li><a href="https://tesseract-ocr.github.io/tessdoc/ImproveQuality.html">Improving the quality of the output</a></li>
         <li><a href="https://tesseract-ocr.github.io/tessdoc/tess3/ControlParams.html">A list of useful control parameters and config files.</a></li>
+        <li><a href="https://tesseract-ocr.github.io/tessdoc/">Tesseract User Manual</a></li>
         <li><a href="https://github.com/tesseract-ocr/tesseract/blob/main/doc/tesseract.1.asc#config-files-and-augmenting-with-user-data">Manual</a></li>
         <li><a href="https://tesseract-ocr.github.io/tessdoc/Command-Line-Usage.html">Command Line Usage</a></li>
+        <li><a href="https://tesseract-ocr.github.io/tessdoc/tess3/FAQ-Old.html">Frequently Asked Questions</a></li>
       </ul>
     </li>
     <li>PyTesseract
@@ -247,8 +250,8 @@ Table of Contents
       <li><a href="https://stackoverflow.com/questions/51026315/how-to-solve-unicodedecodeerror-in-python-3-6/51027262#51027262">How to solve UnicodeDecodeError in Python 3.6? (answer by Daniel)</a></li>
       <li><a href="https://docs.docker.com/engine/install/linux-postinstall/#manage-docker-as-a-non-root-user">Run Docker as non-root user I (non secure)</a>
       </li>
-      <li><a href="https://docs.docker.com/engine/security/rootless/">Run Docker as non-root user II</a>
-      </li>
+      <li><a href="https://docs.docker.com/engine/security/rootless/">Run Docker as non-root user II</a></li>
+      <li><a href="https://docs.docker.com/engine/security/rootless/">Run Docker as non-root user II</a></li>
       <li>Linux Offline Docker installation
         <ul>
           <li><a href="https://docs.docker.com/engine/install/ubuntu/#install-from-a-package">Download .deb files</a></li>
@@ -258,12 +261,15 @@ Table of Contents
         </ul>
       </li>
       <li><a href="https://serverfault.com/questions/701248/downloading-docker-image-for-transfer-to-non-internet-connected-machine/718470#718470">Save and load Docker images as files (answer by Booba Skaya). Useful for offline Docker image import/export</a></li>
+      <li><a href="https://stackoverflow.com/questions/23513045/how-to-check-if-a-process-is-running-inside-docker-container">How to check if a process is running inside docker container?</a></li>
       <li>Performance
         <ul>
           <li><a href="https://sysdig.com/blog/container-isolation-gone-wrong/">Container isolation gone wrong</a></li>
           <li><a href="https://sysdig.com/blog/monitoring-greedy-containers-part-1/">Monitoring greedy containers (Part 1)</a></li>
           <li><a href="https://medium.com/hackernoon/another-reason-why-your-docker-containers-may-be-slow-d37207dec27f">Another reason why your Docker containers may be slow</a></li>
           <li><a href="https://medium.com/homullus/beating-some-performance-into-docker-for-mac-f5d1e732032c">Beating some performance into Docker for Mac</a></li>
+          <li><a href="https://jitsu.com/blog/multi-platform-docker-builds">How to build Docker Images for Apple Silicon (aka M1 Chip)</a></li>
+          <li><a href="https://www.docker.com/blog/speed-boost-achievement-unlocked-on-docker-desktop-4-6-for-mac/">Speed boost achievement unlocked on Docker Desktop 4.6 for Mac</a></li>
         </ul>
       </li>
   </ul>
