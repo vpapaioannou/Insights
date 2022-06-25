@@ -252,6 +252,8 @@ Table of Contents
       </li>
       <li><a href="https://docs.docker.com/engine/security/rootless/">Run Docker as non-root user II</a></li>
       <li><a href="https://docs.docker.com/engine/security/rootless/">Run Docker as non-root user II</a></li>
+      <li><a href="https://serverfault.com/questions/701248/downloading-docker-image-for-transfer-to-non-internet-connected-machine/718470#718470">Save and load Docker images as files (answer by Booba Skaya). Useful for offline Docker image import/export</a></li>
+      <li><a href="https://stackoverflow.com/questions/23513045/how-to-check-if-a-process-is-running-inside-docker-container">How to check if a process is running inside docker container?</a></li>
       <li>Linux Offline Docker installation
         <ul>
           <li><a href="https://docs.docker.com/engine/install/ubuntu/#install-from-a-package">Download .deb files</a></li>
@@ -260,8 +262,6 @@ Table of Contents
           <li><a href="https://github.com/moby/moby/issues/41792#issuecomment-750863884">Stop Docker socket before installing</a></li>
         </ul>
       </li>
-      <li><a href="https://serverfault.com/questions/701248/downloading-docker-image-for-transfer-to-non-internet-connected-machine/718470#718470">Save and load Docker images as files (answer by Booba Skaya). Useful for offline Docker image import/export</a></li>
-      <li><a href="https://stackoverflow.com/questions/23513045/how-to-check-if-a-process-is-running-inside-docker-container">How to check if a process is running inside docker container?</a></li>
       <li>Performance
         <ul>
           <li><a href="https://sysdig.com/blog/container-isolation-gone-wrong/">Container isolation gone wrong</a></li>
@@ -286,6 +286,7 @@ Table of Contents
           <li><a href="https://mattsegal.dev/django-gunicorn-nginx-logging.html">Manage logs w/ Nginx, Gunicorn and Django</a></li>
           <li><a href=https://mattsegal.dev/django-logging-papertrail.html">Log aggregation w/ Papertrail</a></li>
           <li><a href="https://scripting4ever.wordpress.com/2020/07/27/how-to-log-the-request-and-response-via-django-middleware/">Log requests and responses when run in production</a></li>
+          <li><a href="https://pypi.org/project/django-request-logging/">django-request-logging</a></li>
         </ul>
       </li>
       <li><a href="https://medium.com/django-rest-framework/django-rest-framework-viewset-when-you-don-t-have-a-model-335a0490ba6f">ViewSets w/o model.</a></li>
