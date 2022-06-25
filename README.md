@@ -189,6 +189,7 @@ Table of Contents
     <li><a href="https://www.slicer.org/wiki/Coordinate_systems">Coordinate systems explained II</a></li>
     <li><a href="https://aws.amazon.com/blogs/machine-learning/de-identify-medical-images-with-the-help-of-amazon-comprehend-medical-and-amazon-rekognition/">AWS De-identification</a></li>
     <li><a href="https://cloud.google.com/healthcare/docs/how-tos/dicom-deidentify">Google De-identification</a></li>
+    <li><a href="https://towardsdatascience.com/a-matter-of-grayscale-understanding-dicom-windows-1b44344d92bd">Understanding DICOM window width and window center.</a></li>
   </ul>
 </li>
 
@@ -209,7 +210,28 @@ Table of Contents
   </ul>
 </li>
 
-<li><span><b>Angular</b></span>
+<li>
+  <span><b>NLP</b></span>
+  <ul>
+    <li>Tesseract
+      <ul>
+        <li><a href="https://medium.com/geekculture/tesseract-ocr-understanding-the-contents-of-documents-beyond-their-text-a98704b7c655">Tesseract OCR: Understanding the Contents of Documents, Beyond Their Text</a></li>
+        <li><a href="https://nanonets.com/blog/ocr-with-tesseract/"></a>How to OCR with Tesseract, OpenCV and Python</li>
+        <li><a href="https://tesseract-ocr.github.io/tessdoc/ImproveQuality.html">Improving the quality of the output</a></li>
+        <li><a href="https://tesseract-ocr.github.io/tessdoc/tess3/ControlParams.html">A list of useful control parameters and config files.</a></li>
+        <li><a href="https://github.com/tesseract-ocr/tesseract/blob/main/doc/tesseract.1.asc#config-files-and-augmenting-with-user-data">Manual</a></li>
+        <li><a href="https://tesseract-ocr.github.io/tessdoc/Command-Line-Usage.html">Command Line Usage</a></li>
+      </ul>
+    </li>
+    <li>PyTesseract
+      <ul>
+        <li><a href="https://github.com/madmaze/pytesseract">Home page</a></li>
+        <li><a href="https://github.com/madmaze/pytesseract/blob/master/pytesseract/pytesseract.py">Main code</a></li>
+      </ul>
+    </li>
+  </ul>
+<li>
+  <span><b>Angular</b></span>
     <ul>
       <li><a href="https://stackoverflow.com/questions/48216330/angular-5-formgroup-reset-doesnt-reset-validators">Reset form properly (answer by Abhinav)</a></li>
       <li><a href="https://material.io/resources/icons/?style=baseline">Angular Material Icons</a></li>
