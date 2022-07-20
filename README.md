@@ -306,7 +306,12 @@ Table of Contents
 </li>
 <li><span><b>VirtualBox</b><span>
   <ul>
-    <li><a href="https://download.virtualbox.org/virtualbox/6.1.28/">VirtualBox resources downloading page</a></li>     
+    <li><a href="https://download.virtualbox.org/virtualbox/6.1.28/">VirtualBox resources downloading page</a></li>
+  </ul>
+</li>
+<li><span><b>OSBoxes</b></span>
+  <ul>
+    <li><a href="https://www.osboxes.org/">Virtual machines for different OSs</a><li>
   </ul>
 </li>
 </ul>
