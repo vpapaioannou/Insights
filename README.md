@@ -275,43 +275,45 @@ Table of Contents
   </ul>
 </li>
 
-<li><span><b>Django</b></span>
+  <li><span><b>Django</b></span>
+      <ul>
+        <li><a href="https://stackoverflow.com/questions/43765732/how-to-trace-this-attributeerror-nonetype-object-has-no-attribute-is-relati">AttributeError: 'NoneType' object has no attribute 'is_relation' during makemigrations (answer by Felipe Ferri)</a></li>
+        <li><a href="https://www.fullstackpython.com/wsgi-servers.html">What is WSGI: Web Server Gateway Interface?</a></li>
+        <li><a href="https://build.vsupalov.com/gunicorn-and-nginx/">Gunicorn and Nginx in a nutshell.</a></li>
+        <li>Logging
+          <ul>
+            <li><a href="https://mattsegal.dev/file-logging-django.html">Save Django logs in production</a></li>
+            <li><a href="https://mattsegal.dev/django-gunicorn-nginx-logging.html">Manage logs w/ Nginx, Gunicorn and Django</a></li>
+            <li><a href=https://mattsegal.dev/django-logging-papertrail.html">Log aggregation w/ Papertrail</a></li>
+            <li><a href="https://scripting4ever.wordpress.com/2020/07/27/how-to-log-the-request-and-response-via-django-middleware/">Log requests and responses when run in production</a></li>
+            <li><a href="https://pypi.org/project/django-request-logging/">django-request-logging</a></li>
+          </ul>
+        </li>
+        <li><a href="https://medium.com/django-rest-framework/django-rest-framework-viewset-when-you-don-t-have-a-model-335a0490ba6f">ViewSets w/o model.</a></li>
+        <li><a href="https://realpython.com/customize-django-admin-python/">Customize Django Admin Page</a></li>
+        <li>Scheduling
+          <ul>
+            <li><a href="https://stackoverflow.com/questions/62525295/how-to-use-python-to-schedule-tasks-in-a-django-application">How to use python to schedule tasks in a Django application</a></li>
+            <li><a href="https://apscheduler.readthedocs.io/en/stable/index.html">Advanced Python Scheduler</a></li>
+            <li><a href="https://github.com/jcass77/django-apscheduler">django-apscheduler</a></li>
+            <li><a href="https://github.com/CodeEnvironment/django-rest-framework-code/tree/master/weather">Example 1</a></li>
+            <li><a href="https://github.com/bobby-didcoding/did_django_schedule_jobs">Example 2</a></li>
+            <li><a href="https://stackoverflow.com/questions/37429726/overriding-appconfig-ready">Troubleshooting 1</a></li>
+            <li><a href="https://stackoverflow.com/questions/59225246/how-to-use-django-appconfig-ready?noredirect=1&lq=1">Troubleshooting 2</a></li>
+          </ul>
+        </li>
+    </ul>
+  </li>
+
+  <li><span><b>VirtualBox</b><span>
     <ul>
-      <li><a href="https://stackoverflow.com/questions/43765732/how-to-trace-this-attributeerror-nonetype-object-has-no-attribute-is-relati">AttributeError: 'NoneType' object has no attribute 'is_relation' during makemigrations (answer by Felipe Ferri)</a></li>
-      <li><a href="https://www.fullstackpython.com/wsgi-servers.html">What is WSGI: Web Server Gateway Interface?</a></li>
-      <li><a href="https://build.vsupalov.com/gunicorn-and-nginx/">Gunicorn and Nginx in a nutshell.</a></li>
-      <li>Logging
-        <ul>
-          <li><a href="https://mattsegal.dev/file-logging-django.html">Save Django logs in production</a></li>
-          <li><a href="https://mattsegal.dev/django-gunicorn-nginx-logging.html">Manage logs w/ Nginx, Gunicorn and Django</a></li>
-          <li><a href=https://mattsegal.dev/django-logging-papertrail.html">Log aggregation w/ Papertrail</a></li>
-          <li><a href="https://scripting4ever.wordpress.com/2020/07/27/how-to-log-the-request-and-response-via-django-middleware/">Log requests and responses when run in production</a></li>
-          <li><a href="https://pypi.org/project/django-request-logging/">django-request-logging</a></li>
-        </ul>
-      </li>
-      <li><a href="https://medium.com/django-rest-framework/django-rest-framework-viewset-when-you-don-t-have-a-model-335a0490ba6f">ViewSets w/o model.</a></li>
-      <li><a href="https://realpython.com/customize-django-admin-python/">Customize Django Admin Page</a></li>
-      <li>Scheduling
-        <ul>
-          <li><a href="https://stackoverflow.com/questions/62525295/how-to-use-python-to-schedule-tasks-in-a-django-application">How to use python to schedule tasks in a Django application</a></li>
-          <li><a href="https://apscheduler.readthedocs.io/en/stable/index.html">Advanced Python Scheduler</a></li>
-          <li><a href="https://github.com/jcass77/django-apscheduler">django-apscheduler</a></li>
-          <li><a href="https://github.com/CodeEnvironment/django-rest-framework-code/tree/master/weather">Example 1</a></li>
-          <li><a href="https://github.com/bobby-didcoding/did_django_schedule_jobs">Example 2</a></li>
-          <li><a href="https://stackoverflow.com/questions/37429726/overriding-appconfig-ready">Troubleshooting 1</a></li>
-          <li><a href="https://stackoverflow.com/questions/59225246/how-to-use-django-appconfig-ready?noredirect=1&lq=1">Troubleshooting 2</a></li>
-        </ul>
-      </li>
-  </ul>
-</li>
-<li><span><b>VirtualBox</b><span>
-  <ul>
-    <li><a href="https://download.virtualbox.org/virtualbox/6.1.28/">VirtualBox resources downloading page</a></li>
-  </ul>
-</li>
-<li><span><b>OSBoxes</b></span>
-  <ul>
-    <li><a href="https://www.osboxes.org/">Virtual machines for different OSs</a><li>
-  </ul>
-</li>
+      <li><a href="https://download.virtualbox.org/virtualbox/6.1.28/">VirtualBox resources downloading page</a></li>
+    </ul>
+  </li>
+
+  <li><span><b>OSBoxes</b></span>
+    <ul>
+      <li><a href="https://www.osboxes.org/">Virtual machines for different OSs</a></li>
+    </ul>
+  </li>
 </ul>
