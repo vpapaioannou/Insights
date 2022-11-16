@@ -76,6 +76,7 @@ Table of Contents
     <li>Remote display - X11</li>
     <li>Eclipse IDE</li>
     <li><a href="https://www.swift.org/documentation/api-design-guidelines/">API Design Guidelines</a></li>
+    <li><a href="http://bada55.io/">CSS colors w/ a name</a></li>
   </ul>
 </li>
 <li><span><b>Hadoop</b></span>
