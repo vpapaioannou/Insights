@@ -112,9 +112,15 @@ Table of Contents
           <li><a href="https://www.datacamp.com/community/tutorials/matplotlib-3d-volumetric-data">Viewing 3D Volumetric Data With Matplotlib</a></li>
         </ul>
       </li>
+      <li><a href="https://github.com/vinta/awesome-python">Awesome Python</a></li>
+      <li><a href="https://github.com/kelvins/awesome-mlops">Awesome MLOPs</a></li>
       <li>OCR
         <ul>
-          <li><a href="https://github.com/madmaze/pytesseract">PyTesseract</a>
+          <li><a href="https://github.com/madmaze/pytesseract">PyTesseract</a></li>
+          <li><a href="https://pyimagesearch.com/2021/11/15/tesseract-page-segmentation-modes-psms-explained-how-to-improve-your-ocr-accuracy/">Tesseract Page Segmentation Modes (PSMs) Explained: How to Improve Your OCR Accuracy</a></li>
+          <li><a href="https://pyimagesearch.com/2021/09/20/language-translation-and-ocr-with-tesseract-and-python/">Language Translation and OCR with Tesseract and Python</a></li>
+          <li><a href="https://pyimagesearch.com/2021/09/06/whitelisting-and-blacklisting-characters-with-tesseract-and-python/">Whitelisting and Blacklisting Characters with Tesseract and Python</a></li>
+          <li><a href=""></a></li>
         </ul>
       </li>
     </ul>
