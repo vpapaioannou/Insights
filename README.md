@@ -323,4 +323,14 @@ Table of Contents
       <li><a href="https://www.osboxes.org/">Virtual machines for different OSs</a></li>
     </ul>
   </li>
+  <li><span><b>Training</b></span>
+    <ul>
+      <li><a href="https://training.prace-ri.eu/">PRACE Training Portal</a></li>
+    </ul>
+  </li>
+  <li><span><b>Statistics</b></span>
+    <ul>
+      <li><a href="https://sites.google.com/site/davidsstatistics/davids-statistics/notched-box-plots">Notched Box Plots</a></li>
+    </ul>
+  </li>
 </ul>
