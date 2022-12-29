@@ -333,4 +333,10 @@ Table of Contents
       <li><a href="https://sites.google.com/site/davidsstatistics/davids-statistics/notched-box-plots">Notched Box Plots</a></li>
     </ul>
   </li>
+  <li><span><b>Workplace</b></span>
+    <ul>
+    <li><a href="https://hbr.org/2018/10/how-men-get-penalized-for-straying-from-masculine-norms">How Men Get Penalized for Straying from Masculine Norms </a></li>
+    <li><a href="https://www.hrdive.com/news/study-men-are-punished-for-not-being-masculine-enough-on-the-job/539200/">Study: Men are punished for not being masculine enough on the job </a></li>
+    </ul>
+  </li>
 </ul>
