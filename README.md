@@ -246,6 +246,7 @@ Table of Contents
 <li>
   <span><b>Angular</b></span>
     <ul>
+      <li><a href="https://hackernoon.com/the-mechanics-of-dom-updates-in-angular-3b2970d5c03d">Understand how Angular and similar frameworks work.</a></li>
       <li><a href="https://stackoverflow.com/questions/48216330/angular-5-formgroup-reset-doesnt-reset-validators">Reset form properly (answer by Abhinav)</a></li>
       <li><a href="https://material.io/resources/icons/?style=baseline">Angular Material Icons</a></li>
       <li><a href="https://blog.angular-university.io/tag/angular-core/">Angular Core Blog</a></li>
